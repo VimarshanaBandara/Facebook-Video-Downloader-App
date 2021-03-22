@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353423168452",
+    "project_id": "facebookvideodownloader-c3ae6",
+    "storage_bucket": "facebookvideodownloader-c3ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353423168452:android:582dfa4e1fb12dc2daca91",
+        "android_client_info": {
+          "package_name": "com.vmmfbvideo.facebook_video_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353423168452-lvkegulqcc6v2qudl1jrdinqi73o246c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3PgKMJ4SuWhezB59wlTPJBYO9B7PaBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353423168452-lvkegulqcc6v2qudl1jrdinqi73o246c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

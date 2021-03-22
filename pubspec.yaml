@@ -1,0 +1,36 @@
+name: facebook_video_downloader
+description: A new Flutter application.
+
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  progressive_image: ^1.0.1
+  permission_handler: ^5.0.1
+  video_thumbnail: ^0.2.2
+  connectivity: ^0.4.6+2
+  flutter_downloader: ^1.4.4
+  http: ^0.12.1
+  html: ^0.14.0+3
+  url_launcher: ^5.5.0
+  firebase_admob: ^0.5.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/img4.png
+
+
