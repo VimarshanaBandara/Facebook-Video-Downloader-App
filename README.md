@@ -13,6 +13,6 @@
 | :-------------: | 
 
 
-| ![](demo/PlayStore%20Icon.png) |
+| ![](demo/Playstore Icon.png) |
 | :-------------: | 
 |     PlayStore     |   
